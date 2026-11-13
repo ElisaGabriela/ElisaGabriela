@@ -93,8 +93,8 @@ Investigation of Machine Learning algorithms with different computational comple
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ElisaGabriela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaGabriela&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElisaGabriela&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaGabriela&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
