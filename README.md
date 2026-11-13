@@ -90,12 +90,6 @@ Investigation of Machine Learning algorithms with different computational comple
 - Research presentation at ERAD/NE (2025).
 - Participation in SBAC-PAD (2026).
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElisaGabriela&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaGabriela&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
