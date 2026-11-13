@@ -86,7 +86,7 @@ Investigation of Machine Learning algorithms with different computational comple
 ### 👩‍🏫 Teaching & Academic Activities
 
 - Teaching Assistantship in Parallel Programming (UFRN).
-- Short course instructor: *Parallel Scalability Suite: Profiling and Visualizing the Scalability of Parallel Applications* (2026).
+- Tutorial instructor: *Parallel Scalability Suite: Profiling and Visualizing the Scalability of Parallel Applications* (2026).
 - Research presentation at ERAD/NE (2025).
 - Participation in SBAC-PAD (2026).
 
