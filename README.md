@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**ElisaGabriela/ElisaGabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Elisa Gabriela! 👋
 
-Here are some ideas to get you started:
+### PhD Researcher | High-Performance Computing & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineer and PhD researcher interested in the intersection of **High-Performance Computing (HPC)** and **Machine Learning**.
+
+My research focuses on developing intelligent approaches for performance modeling, prediction, and scalability analysis of parallel applications.
+
+### 🔬 Research Interests
+
+- High-Performance Computing (HPC)
+- Machine Learning & Predictive Modeling
+- Parallel and Distributed Computing
+- Performance Analysis and Scalability
+- Scientific Computing
+
+### 🛠️ Technologies & Tools
+
+**Programming:** Python, C/C++
+
+**Machine Learning:** PyTorch, Scikit-learn, NumPy
+
+**Parallel Computing:** OpenMP, MPI
+
+**Tools:** Git, Linux, Matplotlib
+
+### 📚 Current Research
+
+- Predictive performance modeling for parallel applications.
+- Machine Learning-based scalability analysis.
+- Adaptive sampling strategies for performance prediction.
+- Integration of ML models into HPC analysis tools.
+
+### 📫 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
