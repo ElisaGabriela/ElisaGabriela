@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Elisa Gabriela! 👋</h1>
+<h1 align="center">Hi, I'm Elisa Lucena! 👋</h1>
 
 <h3 align="center">
   PhD Researcher | High-Performance Computing | Machine Learning
